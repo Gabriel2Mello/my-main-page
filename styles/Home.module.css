@@ -1,0 +1,14 @@
+.title {
+  color: white;
+}
+
+.container {
+  min-height: 100vh;
+  padding: 0;
+  border: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
